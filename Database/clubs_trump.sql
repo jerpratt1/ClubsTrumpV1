@@ -1,0 +1,1 @@
+-- Construct tables for scoring

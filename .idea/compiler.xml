@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ClubsTrump" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ClubsTrump" target="11" />
+      <module name="dao-lecture-final" target="11" />
+      <module name="dao-testing-exercise" target="11" />
+      <module name="dao-testing-lecture" target="11" />
+      <module name="http-web-services-GET-exercise" target="11" />
+      <module name="http-web-services-GET-lecture" target="11" />
+      <module name="http-web-services-GET-tutorial" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
