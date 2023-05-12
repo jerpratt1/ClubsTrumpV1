@@ -10,7 +10,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ClubsTrump" target="11" />
       <module name="dao-lecture-final" target="11" />
       <module name="dao-testing-exercise" target="11" />
       <module name="dao-testing-lecture" target="11" />
